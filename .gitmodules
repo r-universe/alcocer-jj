@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/alcocer-jj/alcocer-jj.r-universe.dev
 	branch = HEAD
+[submodule "fathom"]
+	path = fathom
+	url = https://github.com/alcocer-jj/fathom
 [submodule "rustgd"]
 	path = rustgd
 	url = https://github.com/alcocer-jj/rustgd
